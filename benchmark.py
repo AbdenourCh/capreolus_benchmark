@@ -49,3 +49,6 @@ for qid, topic in benchmark.topics['title'].items():
         results[qid] = searcher.query(topic)
         n_queries+=1
 end = time.time()
+
+eval_runs(results, benchmark.qrels, metrics = DEFAULT_METRICS)
+
