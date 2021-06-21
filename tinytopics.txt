@@ -1,0 +1,880 @@
+<top>
+<num> Number: 0
+<title> Est-ce que je dois demander mon passeport que dans ma ville de residence?
+</top>
+<top>
+<num> Number: 1
+<title> Est-ce que mon bébé de 3 moins peut avoir un passeport?
+</top>
+<top>
+<num> Number: 2
+<title> A partir de quelle age doit-on donner ses empreintes digitales pour faire ses papiers ?
+</top>
+<top>
+<num> Number: 3
+<title> Qui peut bénéficier d'un chômage partiel à partir du premier mai?
+</top>
+<top>
+<num> Number: 4
+<title> un locataire doit-il payer la taxe d'habitation ?
+</top>
+<top>
+<num> Number: 5
+<title> Qui peut bénéficier d'un congé parental ?
+</top>
+<top>
+<num> Number: 6
+<title> combien dure une formation d'apprentissage ?
+</top>
+<top>
+<num> Number: 7
+<title> Puis-je choisir un fournisseur de gaz différent du fournisseur d'électricité ?
+</top>
+<top>
+<num> Number: 8
+<title> Dans quel cas mon enfant doit-il avoir une autorisation pour sortir du territoire français ?
+</top>
+<top>
+<num> Number: 9
+<title> Où me rendre pour faire reconnaître mon enfant ?
+</top>
+<top>
+<num> Number: 10
+<title> Je ne suis pas marié, comment faire reconnaître mon enfant ?
+</top>
+<top>
+<num> Number: 11
+<title> Avant quel age je dois participer à la JDC ?
+</top>
+<top>
+<num> Number: 12
+<title> Quelle est la durée de validité d'un contrôle technique pour vendre mon véhicule ?
+</top>
+<top>
+<num> Number: 13
+<title> Est-ce que je dois parler avec mon empoliyer avant démissioner?
+</top>
+<top>
+<num> Number: 14
+<title> Quels sont les équipements obligatoires pour rouler en scooter ?
+</top>
+<top>
+<num> Number: 15
+<title> Peut-on toucher le RSA à l'étranger ?
+</top>
+<top>
+<num> Number: 16
+<title> Un mineur étranger doit-il détenir un titre de séjour?
+</top>
+<top>
+<num> Number: 17
+<title> Que sont les charges charges locatives ?
+</top>
+<top>
+<num> Number: 18
+<title> Qui travaille dans une crèche familiale ?
+</top>
+<top>
+<num> Number: 19
+<title> Puis-je renouveler mon passeport en ligne ?
+</top>
+<top>
+<num> Number: 20
+<title> Combien d'années ma carte est valide apres la date d'ebrouement ?
+</top>
+<top>
+<num> Number: 21
+<title> Quelle est l'indemnité minimum pour une rupture conventionnelle ?
+</top>
+<top>
+<num> Number: 22
+<title> Quelles sont les conditions pour faire un retrait d'un PEL ?
+</top>
+<top>
+<num> Number: 23
+<title> Si j'ai perdu mon permis de conduire, est-ce que je peux quand même rouler ?
+</top>
+<top>
+<num> Number: 24
+<title> Quelle est la durée de la période d'essai pour un cadre ?
+</top>
+<top>
+<num> Number: 25
+<title> quelles sont les revenues prises en compte dans le calcul de l'APL ?
+</top>
+<top>
+<num> Number: 26
+<title> Mon employeur me refuse mon congé maternité. C'est normal ?
+</top>
+<top>
+<num> Number: 27
+<title> en cas de perte de la carte d'identité, que dois-je faire ?
+</top>
+<top>
+<num> Number: 28
+<title> Est-ce que je peux montrer une facture de gaz comme justificatif de domicile pour le permis?
+</top>
+<top>
+<num> Number: 29
+<title> Quelles sont les règles pour choisir sa ville de mariage ?
+</top>
+<top>
+<num> Number: 30
+<title> A partir de quel montant de revenus est-ce que je commence à payer des impôts?
+</top>
+<top>
+<num> Number: 31
+<title> Comment connaître le nombre de points sur son permis ?
+</top>
+<top>
+<num> Number: 32
+<title> Est-ce que le terme d'un CDD peut etre reporté ?
+</top>
+<top>
+<num> Number: 33
+<title> Est-ce que mon titre de séjour me permettre de travailler ?
+</top>
+<top>
+<num> Number: 34
+<title> Ai-je besoin d'un contrôle technique pour refaire ma carte grise ?
+</top>
+<top>
+<num> Number: 35
+<title> Quelle est la rémunération en cas d'activité partielle ?
+</top>
+<top>
+<num> Number: 36
+<title> Que dois-je faire si je ne peux pas être  présent pour le vote ?
+</top>
+<top>
+<num> Number: 37
+<title> Puis-je être payé à l'heure lors d'un stage ?
+</top>
+<top>
+<num> Number: 38
+<title> Quels sont les circonstances necessaires pour l'attribution des logements sociaux ?
+</top>
+<top>
+<num> Number: 39
+<title> La zone où l'etablissement scolaire se situe determine quelles dates ?
+</top>
+<top>
+<num> Number: 40
+<title> Qui peux passer en chômage partiel à partir du premier mai 2020?
+</top>
+<top>
+<num> Number: 41
+<title> Quel est l'âge requis pour qu'une personne étrangère puisse conclure un pacs ?
+</top>
+<top>
+<num> Number: 42
+<title> où faire une demande d'un logement social  ?
+</top>
+<top>
+<num> Number: 43
+<title> Est-ce que on doit payer les dettes avant la succession?
+</top>
+<top>
+<num> Number: 44
+<title> Le prix de la carte gris est donné par rapport à quoi ?
+</top>
+<top>
+<num> Number: 45
+<title> Y a-t-il un age minimum pour obtenir l'APA?
+</top>
+<top>
+<num> Number: 46
+<title> Est-ce que s'inscrire du registre des français à l'étranger est payant ?
+</top>
+<top>
+<num> Number: 47
+<title> à quoi sert l'aide juridictionnelle ?
+</top>
+<top>
+<num> Number: 48
+<title> Est-ce que j'ai droit au congès lors du déces d'un membre de ma famille ?
+</top>
+<top>
+<num> Number: 49
+<title> Puis-je conduire en France avec mon permis de conduire étranger ?
+</top>
+<top>
+<num> Number: 50
+<title> Est-ce que je peux envoyer mon préavis pour quitter mon appartement par email à mon propriétaire ?
+</top>
+<top>
+<num> Number: 51
+<title> Quels sont les bruits de comportement ?
+</top>
+<top>
+<num> Number: 52
+<title> Peut-on utiliser le prêt à taux zéro pour financer un local commercial ?
+</top>
+<top>
+<num> Number: 53
+<title> Qu'est-ce que le CSE?
+</top>
+<top>
+<num> Number: 54
+<title> Est-ce que je peux obtenir l'acte de mariage de mes parents ?
+</top>
+<top>
+<num> Number: 55
+<title> Est-ce que j'ai besoin d'une autre procuration pour voter en cas de déménagement?
+</top>
+<top>
+<num> Number: 56
+<title> Mon entreprise peut-elle me refuser un congé paternité ?
+</top>
+<top>
+<num> Number: 57
+<title> Est-ce que des entreprises privées peuvent accéder à mon casier judiciaire ?
+</top>
+<top>
+<num> Number: 58
+<title> A quoi sert le CSA, certificat de non gage ?
+</top>
+<top>
+<num> Number: 59
+<title> où dois-je prendre une photo pour une demande de passeport ?
+</top>
+<top>
+<num> Number: 60
+<title> Que doit mentionner le justificatif de domicile ?
+</top>
+<top>
+<num> Number: 61
+<title> Est-ce qu'on peux obtenir la nationalité de qu'on la demande?
+</top>
+<top>
+<num> Number: 62
+<title> Quelles sont les conditions pour obtenir la nationalité française après un mariage ?
+</top>
+<top>
+<num> Number: 63
+<title> Quel est le montant du RSA ?
+</top>
+<top>
+<num> Number: 64
+<title> Comment bénéficier de l'acre ?
+</top>
+<top>
+<num> Number: 65
+<title> Que faire en cas d'activité inattendue sur la carte de crédit?
+</top>
+<top>
+<num> Number: 66
+<title> que faire en cas de perte de l'attestation de recensement militaire ?
+</top>
+<top>
+<num> Number: 67
+<title> Est-ce que je dois payer des impôts sur mon indemnité de licenciement?
+</top>
+<top>
+<num> Number: 68
+<title> Combien de temps dois-je conserver mes bulletins de salaire ?
+</top>
+<top>
+<num> Number: 69
+<title> Combien rapport le LEP ?
+</top>
+<top>
+<num> Number: 70
+<title> C'est quoi la bourse de collèges ?
+</top>
+<top>
+<num> Number: 71
+<title> quel est le salaire horaire minimum ?
+</top>
+<top>
+<num> Number: 72
+<title> Quelle est la quantité de la allocation de solidarité spécifique ?
+</top>
+<top>
+<num> Number: 73
+<title> Quand on recois une indemnité de congés payés?
+</top>
+<top>
+<num> Number: 74
+<title> Quel est le délai du préavis ?
+</top>
+<top>
+<num> Number: 75
+<title> A partir de quelle date le décret numero 2020-361 change la modalité de calcul de l'ARE?
+</top>
+<top>
+<num> Number: 76
+<title> Quel est le montant forfaitaire de la prime d'activité ?
+</top>
+<top>
+<num> Number: 77
+<title> quelles sont les conditions pour percevoir Indemnités journalières ?
+</top>
+<top>
+<num> Number: 78
+<title> Quel est le délai pour faire un changement d'adresse sur ma carte grise ?
+</top>
+<top>
+<num> Number: 79
+<title> quels sont les frais d'un livret A ?
+</top>
+<top>
+<num> Number: 80
+<title> Ou peut-on faire le contrôle technique ?
+</top>
+<top>
+<num> Number: 81
+<title> comment je peux accéder au mon compte personnel de formation ?
+</top>
+<top>
+<num> Number: 82
+<title> qu'est-ce qu'un permis de construire ?
+</top>
+<top>
+<num> Number: 83
+<title> Pour quelle raison un employé peut-il refuser de travailler ?
+</top>
+<top>
+<num> Number: 84
+<title> Ou dois-je regarder pour savoir si mon diplôme est suffisante pour un certain poste?
+</top>
+<top>
+<num> Number: 85
+<title> Quel est le montant maximal de l'allocution aux adultes handicapés ?
+</top>
+<top>
+<num> Number: 86
+<title> Mon employeur peut-il me refuser des congés ?
+</top>
+<top>
+<num> Number: 87
+<title> De quoi cela depend la quantité d'argent reçu en allocation  ?
+</top>
+<top>
+<num> Number: 88
+<title> Quel est l'âge requis pour bénéficier de l'allocation de solidarité aux personnes âgées ?
+</top>
+<top>
+<num> Number: 89
+<title> Dans quels cas la declaratioin prealable de travaux peut être exigée ?
+</top>
+<top>
+<num> Number: 90
+<title> Ou est-ce qu'on peut trouver l'augmentation maximale possible pour un loyer par année?
+</top>
+<top>
+<num> Number: 91
+<title> où peut-on déposer une plainte ?
+</top>
+<top>
+<num> Number: 92
+<title> Avons-nous les mêmes contraintes si nous venons de l'UE avec des cigarettes?
+</top>
+<top>
+<num> Number: 93
+<title> Qu'est-ce que la médiation familiale ?
+</top>
+<top>
+<num> Number: 94
+<title> Peut-on changer le nom de famille de son enfant mineur ?
+</top>
+<top>
+<num> Number: 95
+<title> Tutelle, curatelle, sauvegarde de justice : quelles différences ?
+</top>
+<top>
+<num> Number: 96
+<title> Qu'est-ce qu'une période de mise en situation en milieu professionnel ?
+</top>
+<top>
+<num> Number: 97
+<title> Véhicule en leasing : que faire quand le contrat de crédit-bail se termine ?
+</top>
+<top>
+<num> Number: 98
+<title> Le RSA donne t-il droit à d'autres aides (complémentaire santé, transports...) ?
+</top>
+<top>
+<num> Number: 99
+<title> Amende ou peine d'emprisonnement : quel délai pour appliquer la peine ?
+</top>
+<top>
+<num> Number: 100
+<title> Recensement militaire : comment prouver la régularité de sa situation ?
+</top>
+<top>
+<num> Number: 101
+<title> Dans quels cas saisir la commission départementale de conciliation ?
+</top>
+<top>
+<num> Number: 102
+<title> Impôt sur le revenu : peut-on payer par prélèvements mensuels (mensualisation) ?
+</top>
+<top>
+<num> Number: 103
+<title> À quoi sert le fonds de travaux mis en place dans les copropriétés ?
+</top>
+<top>
+<num> Number: 104
+<title> Conciliateur de l'assurance maladie : comment y recourir ?
+</top>
+<top>
+<num> Number: 105
+<title> Peut-on franciser son nom et son prénom en devenant Français ?
+</top>
+<top>
+<num> Number: 106
+<title> Comment sont remboursées les sommes versées à tort par Pôle emploi?
+</top>
+<top>
+<num> Number: 107
+<title> S'occuper d'un enfant ou d'un proche : quels effets sur la retraite (AVPF) ?
+</top>
+<top>
+<num> Number: 108
+<title> Que devient la vente lorsque le crédit immobilier est refusé ?
+</top>
+<top>
+<num> Number: 109
+<title> Que devient le crédit immobilier lorsque la vente est annulée ?
+</top>
+<top>
+<num> Number: 110
+<title> Comment payer le permis de conduire : permis à un euro, apprenti, chômeur... ?
+</top>
+<top>
+<num> Number: 111
+<title> Qu'est-ce qu'un programme personnalisé de réussite éducative (PPRE) ?
+</top>
+<top>
+<num> Number: 112
+<title> Comment fonctionne l'assurance en cas de prêt d'un véhicule entre particuliers ?
+</top>
+<top>
+<num> Number: 113
+<title> Comment fonctionne la franchise d'assurance auto ?
+</top>
+<top>
+<num> Number: 114
+<title> Comment se faire rembourser une somme en sollicitant une société de recouvrement ?
+</top>
+<top>
+<num> Number: 115
+<title> Que deviennent les heures acquises au titre du Dif dans la fonction publique ?
+</top>
+<top>
+<num> Number: 116
+<title> Un salarié peut-il percevoir l'allocation chômage en cas de démission ?
+</top>
+<top>
+<num> Number: 117
+<title> Puis-je toucher le chômage si je démissionne ?
+</top>
+<top>
+<num> Number: 118
+<title> Qu'est-ce qu'un récépissé de demande de titre de séjour ?
+</top>
+<top>
+<num> Number: 119
+<title> Adoption simple et adoption plénière : quelles différences ?
+</top>
+<top>
+<num> Number: 120
+<title> Qu'est-ce qu'un achat à distance ?
+</top>
+<top>
+<num> Number: 121
+<title> Est-on obligé d'aider ses parents ou beaux-parents dans le besoin ?
+</top>
+<top>
+<num> Number: 122
+<title> Qu'est-ce qu'un CDD sans terme précis ?
+</top>
+<top>
+<num> Number: 123
+<title> Quelle aide apporte le fonds de solidarité pour le logement (FSL) ?
+</top>
+<top>
+<num> Number: 124
+<title> Peut-on vivre dans un autre pays d'Europe avec un titre de séjour français ?
+</top>
+<top>
+<num> Number: 125
+<title> Qu'est-ce qu'un logement soumis au régime de la loi de 1948 ?
+</top>
+<top>
+<num> Number: 126
+<title> Justice pénale : quels sont les délais de prescription ?
+</top>
+<top>
+<num> Number: 127
+<title> Est-on couvert par l'assurance auto lors d'un voyage à l'étranger ?
+</top>
+<top>
+<num> Number: 128
+<title> À quoi sert le fichier central des dispositions de dernières volontés (FCDDV) ?
+</top>
+<top>
+<num> Number: 129
+<title> Comment bénéficier d'un congé sans solde ?
+</top>
+<top>
+<num> Number: 130
+<title> Que faire quand des squatteurs occupent un logement ?
+</top>
+<top>
+<num> Number: 131
+<title> DSE (dossier social étudiant) : comment demander une bourse et/ou un logement ?
+</top>
+<top>
+<num> Number: 132
+<title> Combien de trimestres faut-il avoir cotisé pour avoir sa retraite à taux plein ?
+</top>
+<top>
+<num> Number: 133
+<title> Qu'est-ce qu'un témoin assisté ?
+</top>
+<top>
+<num> Number: 134
+<title> Qu'est-ce que le socle commun de connaissances, de compétences et de culture ?
+</top>
+<top>
+<num> Number: 135
+<title> Assurance habitation : qu'est-ce que la garantie responsabilité civile ?
+</top>
+<top>
+<num> Number: 136
+<title> S'inscrire sur une liste électorale consulaire : quel justificatif de domicile ?
+</top>
+<top>
+<num> Number: 137
+<title> Consultation d'un psy : quelles sont les règles de prise en charge ?
+</top>
+<top>
+<num> Number: 138
+<title> Embauche à la fin d'un stage : quelles conséquences sur la période d'essai ?
+</top>
+<top>
+<num> Number: 139
+<title> Qu'est-ce que l'aide médicale de l'État (AME) ?
+</top>
+<top>
+<num> Number: 140
+<title> Peut-on filmer ou prendre des photos depuis le ciel ?
+</top>
+<top>
+<num> Number: 141
+<title> Procès pénal : qu'est-ce qu'une partie civile ?
+</top>
+<top>
+<num> Number: 142
+<title> Qu'est-ce que le prêt sur gage ?
+</top>
+<top>
+<num> Number: 143
+<title> Appel d'un jugement : comment acheter un timbre fiscal ?
+</top>
+<top>
+<num> Number: 144
+<title> Quel est le délai de prescription d'une dette locative (charges et loyer) ?
+</top>
+<top>
+<num> Number: 145
+<title> Un ancien contrat aidé reste-t-il valable (contrat-insertion, emploi-jeune...) ?
+</top>
+<top>
+<num> Number: 146
+<title> Inaptitude physique d'un contractuel : quelles conséquences ?
+</top>
+<top>
+<num> Number: 147
+<title> Un intérimaire a-t-il droit au projet de transition professionnelle (PTP) ?
+</top>
+<top>
+<num> Number: 148
+<title> Qu'est-ce que le compte engagement citoyen (CEC) ?
+</top>
+<top>
+<num> Number: 149
+<title> Qu'est-ce qu'une commission de réforme dans la fonction publique ?
+</top>
+<top>
+<num> Number: 150
+<title> Qu'est-ce qu'une grâce présidentielle ?
+</top>
+<top>
+<num> Number: 151
+<title> Refus d'inscription, radiation de la liste électorale par le maire : que faire ?
+</top>
+<top>
+<num> Number: 152
+<title> Médecine du travail : qu'est-ce que le suivi individuel renforcé ?
+</top>
+<top>
+<num> Number: 153
+<title> Un jugement civil étranger (divorce, dette...) peut-il être exécuté en France ?
+</top>
+<top>
+<num> Number: 154
+<title> A t-on droit plusieurs fois au prêt à taux zéro (PTZ) ?
+</top>
+<top>
+<num> Number: 155
+<title> Un électeur peut-il demander sa radiation des listes électorales ?
+</top>
+<top>
+<num> Number: 156
+<title> Qui est responsable des dégradations d'un logement en cours de location ?
+</top>
+<top>
+<num> Number: 157
+<title> Carte grise : que faire si vous rachetez le véhicule avant la fin du leasing ?
+</top>
+<top>
+<num> Number: 158
+<title> Peut-on forcer un propriétaire à faire insonoriser son logement ?
+</top>
+<top>
+<num> Number: 159
+<title> Peut-on conserver l'usage du nom de son époux(se) décédé(e) ?
+</top>
+<top>
+<num> Number: 160
+<title> Quelles sanctions en cas de fraude fiscale ?
+</top>
+<top>
+<num> Number: 161
+<title> Un Français peut-il être expulsé d'un pays européen ?
+</top>
+<top>
+<num> Number: 162
+<title> A t-on droit au PTZ quand on est déjà propriétaire d'un logement ?
+</top>
+<top>
+<num> Number: 163
+<title> Que faire si la carte grise comporte une erreur ?
+</top>
+<top>
+<num> Number: 164
+<title> Comment trouver son centre de formalités des entreprises (CFE) ?
+</top>
+<top>
+<num> Number: 165
+<title> Comment consulter un accord d'entreprise ?
+</top>
+<top>
+<num> Number: 166
+<title> Comment obtenir une carte grise "véhicule de collection" ?
+</top>
+<top>
+<num> Number: 167
+<title> Qu'est-ce que la garantie accidents de la vie ?
+</top>
+<top>
+<num> Number: 168
+<title> Comment changer de régime matrimonial ?
+</top>
+<top>
+<num> Number: 169
+<title> Doit-on encore verser une pension alimentaire à un enfant devenu majeur ?
+</top>
+<top>
+<num> Number: 170
+<title> Un étranger peut-il percevoir des prestations familiales en France ?
+</top>
+<top>
+<num> Number: 171
+<title> Étranger en France : comment acheter un timbre fiscal ?
+</top>
+<top>
+<num> Number: 172
+<title> Quels sont les tarifs des numéros spéciaux (vert, gris, violet) ?
+</top>
+<top>
+<num> Number: 173
+<title> Un étudiant peut-il faire un stage dans la fonction publique ?
+</top>
+<top>
+<num> Number: 174
+<title> De quels moyens dispose le comité social et économique (CSE) ?
+</top>
+<top>
+<num> Number: 175
+<title> Allocations chômage : comment est calculé le salaire journalier de référence ?
+</top>
+<top>
+<num> Number: 176
+<title> Peut-on avoir deux passeports ?
+</top>
+<top>
+<num> Number: 177
+<title> Peut-on créer un syndicat secondaire dans un groupe d'immeubles en copropriété ?
+</top>
+<top>
+<num> Number: 178
+<title> Crit'Air professionnel : quelle vignette pour un véhicule d'entreprise ?
+</top>
+<top>
+<num> Number: 179
+<title> Qu'est-ce qu'une audition libre lors d'une enquête ?
+</top>
+<top>
+<num> Number: 180
+<title> Un salarié peut-il s'absenter pour participer à une campagne électorale ?
+</top>
+<top>
+<num> Number: 181
+<title> Une lettre recommandée électronique a-t-elle une valeur légale ?
+</top>
+<top>
+<num> Number: 182
+<title> Quelles sont les démarches fiscales à effectuer en cas de don manuel ?
+</top>
+<top>
+<num> Number: 183
+<title> Les primes sont-elles prises en compte pour la retraite des agents publics ?
+</top>
+<top>
+<num> Number: 184
+<title> Dans quels cas peut-on demander le déblocage anticipé de l'épargne salariale ?
+</top>
+<top>
+<num> Number: 185
+<title> Comment sont choisis les salariés touchés par un licenciement économique ?
+</top>
+<top>
+<num> Number: 186
+<title> Comment faire une donation au dernier vivant ?
+</top>
+<top>
+<num> Number: 187
+<title> Un étranger qui s'installe en France doit-il y faire immatriculer son véhicule ?
+</top>
+<top>
+<num> Number: 188
+<title> Qu'est-ce qu'un emploi franc ?
+</top>
+<top>
+<num> Number: 189
+<title> Qui peut effectuer un vaccin ?
+</top>
+<top>
+<num> Number: 190
+<title> Peut-on porter et transporter une arme ?
+</top>
+<top>
+<num> Number: 191
+<title> Démarchage téléphonique abusif, Spam vocal ou par SMS : que faire ?
+</top>
+<top>
+<num> Number: 192
+<title> Comment consulter gratuitement un avocat ?
+</top>
+<top>
+<num> Number: 193
+<title> Le salarié et l'employeur peuvent-ils régler un conflit à l'amiable ?
+</top>
+<top>
+<num> Number: 194
+<title> Un salarié en formation en dehors du temps de travail est-il rémunéré ?
+</top>
+<top>
+<num> Number: 195
+<title> Que faire en cas de réception d'un chèque sans provision ? 
+</top>
+<top>
+<num> Number: 196
+<title> Comment suivre la fabrication de son permis de conduire ?
+</top>
+<top>
+<num> Number: 197
+<title> En cas de risque professionnel, peut-on avoir une arme pour se défendre ?
+</top>
+<top>
+<num> Number: 198
+<title> Un mineur peut-il avoir un compte bancaire ou un livret d'épargne ?
+</top>
+<top>
+<num> Number: 199
+<title> Quel est le moyen pour annuler amicalement un contrat de travail ?
+</top>
+<top>
+<num> Number: 200
+<title> Où puis-je trouver le prix au mètre carré d'un logement?
+</top>
+<top>
+<num> Number: 201
+<title> Quand sera la prochaine élection présidentielle ?
+</top>
+<top>
+<num> Number: 202
+<title> Est-ce que à partir du 16 juin l'attestation employeur est encore demandée?
+</top>
+<top>
+<num> Number: 203
+<title> Un abandon de poste est-il considéré comme une faute grave ?
+</top>
+<top>
+<num> Number: 204
+<title> Est-ce que le permis de conduire peut être utiliser comme document d'identité?
+</top>
+<top>
+<num> Number: 205
+<title> Peut-on mettre en location un logement dans une zone d'habitat indigne ?
+</top>
+<top>
+<num> Number: 206
+<title> Que faire face à une association qui s'apparente à une secte ?
+</top>
+<top>
+<num> Number: 207
+<title> Fonction publique : qu'est-ce que l'allocation temporaire d'invalidité (ATI) ?
+</top>
+<top>
+<num> Number: 208
+<title> Permis de conduire à points : comment faire une réclamation ?
+</top>
+<top>
+<num> Number: 209
+<title> Particulier employeur : à quoi sert le Cesu déclaratif et comment y adhérer ?
+</top>
+<top>
+<num> Number: 210
+<title> Peut-on garder la mutuelle de l'entreprise à la fin du contrat de travail ?
+</top>
+<top>
+<num> Number: 211
+<title> En quoi consiste l'encadrement des loyers ?
+</top>
+<top>
+<num> Number: 212
+<title> Comment une assistante maternelle doit-elle déclarer ses revenus ?
+</top>
+<top>
+<num> Number: 213
+<title> Peut-on être rémunéré pendant sa formation à Pôle emploi ?
+</top>
+<top>
+<num> Number: 214
+<title> Un contrat de location peut-il interdire les animaux dans le logement ?
+</top>
+<top>
+<num> Number: 215
+<title> Comment immatriculer un 2 roues ou une moto d'occasion acheté en France ?
+</top>
+<top>
+<num> Number: 216
+<title> Dans quel délai un supplément d'impôt sur le revenu peut-il être réclamé ?
+</top>
+<top>
+<num> Number: 217
+<title> Qu'est-ce que le service d'aide à la mobilité bancaire ?
+</top>
+<top>
+<num> Number: 218
+<title> Qui doit payer les frais d'obsèques ?
+</top>
+<top>
+<num> Number: 219
+<title> Qu'est-ce que l'aide mobili-jeune ?
+</top>
